@@ -1,0 +1,3 @@
+L'atelier m'a permit  de découvrir Git et GitHub, puis de pouvoir les différencier.
+Git est un outil permettant de suivre l'évolution des codes et de travailler en équipe tandis que GitHub est une platforme permettant d'héberger ses projets, publier ses codes puis collaborer avec d'autres développeurs.
+J'ai également appris les commandes de bases pour les différentes configuration du système d'exploitation afin de pouvoir travailler aisément.
